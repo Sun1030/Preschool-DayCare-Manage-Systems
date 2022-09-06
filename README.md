@@ -1,4 +1,4 @@
-# CSYE6200_Final_Project
+# Preschool DayCare Manage Systems
 This is a group project. Our project based on NetBeans software.
 ### Team Member
 1. 002114556 Lu Zhao
